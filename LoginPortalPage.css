@@ -1,0 +1,26 @@
+.LoginPortalClgPic{
+   height:96vh;
+   width: 100vw;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   color: #c5c5c5;
+   font-size: 21px;
+   display: flex;
+}
+
+.box{
+    height: 200px;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.buttonContainer {
+    padding: 0px 20px;
+    display: flex;
+    max-width: 350px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
